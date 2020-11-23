@@ -1,0 +1,53 @@
+.mainheader {
+    text-align: center;
+    font-size: 80px;
+    background-color: black;
+    color: white;
+    margin: 5% 20% 0 20%;
+    padding: 2%;
+}
+
+.subheader {
+    text-align: center;
+    background-color: black;
+    color: lightgrey;
+    margin: 0 20% 0 20%;
+    padding: 0 0 2% 0;
+}
+
+.mainnav {
+    font-size: 30px;
+    width: 15%;
+    text-align: center;
+    margin: 10px;
+}
+
+.mainnav > ul > li {
+    font-weight: bold;
+    border: 1px dotted grey;
+    margin: 10px;
+}
+.center-container {
+    /* width: 60%; */
+    height: 80%;
+    border: 1px solid grey;
+    margin: 0 20%;
+}
+.center-container > section {
+    padding: 1%;
+    margin: 1%;
+    
+}
+
+.center-container > section > h3 {
+    text-align: center;
+    color: black;
+    background-color: darkgray;
+    width: 10%;
+    padding: 1%;
+      
+}
+
+.strong {
+    font-weight: bold;
+}
